@@ -1,23 +1,17 @@
 🎬 Movie Ticket Management System
 
-Hệ thống quản lý rạp chiếu phim giúp tối ưu quy trình vận hành và đặt vé một cách nhanh chóng, chính xác.
+A cinema management system designed to optimize theater operations and provide fast, accurate ticket booking services.
 
-🔹 Các chức năng quản lý
+🔹 Management Features
 
-Quản lý phim
+- Movie Management
+- Showtime Management
+- Customer Management
+- Employee Management
+- Account Management
+- Promotion Management
+- Food & Beverage Management (Popcorn, Drinks, Combo Meals)
 
-Quản lý suất chiếu
+🎯 Objective
 
-Quản lý khách hàng
-
-Quản lý nhân viên
-
-Quản lý tài khoản
-
-Quản lý khuyến mãi
-
-Quản lý thực phẩm (bắp, nước, combo)
-
-🎯 Mục tiêu
-
-Xây dựng hệ thống mô phỏng hoạt động rạp chiếu phim thực tế, hỗ trợ quản lý toàn diện và nâng cao trải nghiệm khách hàng.
+To develop a system that simulates real-world cinema operations, supports comprehensive management activities, and enhances customer experience.
